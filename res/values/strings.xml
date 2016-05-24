@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LymperidisEfstathiosFinalExams</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="fruits_prompt">Change fruit</string>
+    <string-array name="fruits_arrays">
+        <item>Apples</item>
+        <item>Bananas</item>
+        <item>Strawberries</item>
+        <item>Cherries</item>
+        <item>Pear</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
